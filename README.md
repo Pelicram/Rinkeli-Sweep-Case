@@ -11,6 +11,7 @@
 
 ### --> [Original Sweep keyboard repository](https://github.com/davidphilipbarr/Sweep)
 
+### --> [Keycaps shown in render](https://github.com/Pelicram/Hattara-Printable-Low-Profile-Keycaps)
 
 Please note that most likely only the Sweep 2.X layout versions are compatible with this case. Half Swept and Bling LP version might fit but i haven't tested those.
 
@@ -21,7 +22,7 @@ Assembly materials needed:
 
 - **8x** m2x6mm screws for the cases.
 - **8x** m2x3x3.5mm heat set threaded inserts.
-- **12x** 8mm rubber bumpons (optional).
+- **14x** 8mm rubber bumpons (optional).
 - **Drill with 2mm bit to drill through sacrificial layers on mounting holes.**
 
 
@@ -56,9 +57,9 @@ Special Thanks
 Renders
 ---
 
-Case Top  |  Case Bottom
+ Case Top⠀⠀⠀ |  Case Bottom
 :-------------------------:|:-------------------------:
-![](_Images/Renders2.png) |    ![](_Images/Renders3.png)
+ ![](_Images/Renders2.png) | ![](_Images/Renders3.png)
 
 ---
 
