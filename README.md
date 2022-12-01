@@ -7,6 +7,7 @@
 ![](_Images/Renders1.png)
 
 ---
+
 ### --> [Based on this case by Bubbleology](https://www.printables.com/model/215167-ferris-sweep-v2-case)
 
 ### --> [Original Sweep keyboard repository](https://github.com/davidphilipbarr/Sweep)
@@ -17,45 +18,35 @@ Please note that most likely only the Sweep 2.X layout versions are compatible w
 
 ---
 
-Assembly materials needed:
----
+## Assembly materials needed
 
-- **8x** m2x6mm screws for the cases.
-- **8x** m2x3x3.5mm heat set threaded inserts.
-- **14x** 8mm rubber bumpons (optional).
-- **Drill with 2mm bit to drill through sacrificial layers on mounting holes.**
+* **8x** m2x6mm screws for the cases.
+* **8x** m2x3x3.5mm heat set threaded inserts.
+* **14x** 8mm rubber bumpons (optional).
+* **Drill with 2mm bit to drill through sacrificial layers on mounting holes.**
 
+## Changes to Bubbleology's original case
 
-Changes to Bubbleology's original case:
----
-- Added threaded inserts to avoid screwing into bare plastic.
-- Raised the top of the case and enlarged the wall thickness.
-- Increased tolerances inside the case slightly.
-- Added supporting elements inside the case so it can be used without foam under the pcb.
-- Tightened TRRS port hole slightly.
-- Filleted and chamfered edges.
+* Added threaded inserts to avoid screwing into bare plastic.
+* Raised the top of the case and enlarged the wall thickness.
+* Increased tolerances inside the case slightly.
+* Added supporting elements inside the case so it can be used without foam under the pcb.
+* Tightened TRRS port hole slightly.
+* Filleted and chamfered edges.
 
+## Please note
 
+* The mounting holes are "closed" to print without supports, you'll need to drill through the sacrificial layers from the top with a 2mm bit. Do this before installing the threaded inserts.
+* The two case halves are not symmetrical! Just using one of the files and mirroring it in your slicer will not work. The mounting holes are in slightly different locations on the two sides.
 
-Please note:  
----
+## Special Thanks
 
-- The mounting holes are "closed" to print without supports, you'll need to drill through the sacrificial layers from the top with a 2mm bit. Do this before installing the threaded inserts.
-- The two case halves are not symmetrical! Just using one of the files and mirroring it in your slicer will not work. The mounting holes are in slightly different locations on the two sides.
-
-
-
-
-Special Thanks
----
-
-- Designers of the Sweep keyboard for making the project open source.
-- Bubbleology for making the original version of this case and sharing the files.
-
+* Designers of the Sweep keyboard for making the project open source.
+* Bubbleology for making the original version of this case and sharing the files.
 
 ---
-Renders
----
+
+## Renders
 
  Case Top⠀⠀⠀ |  Case Bottom
 :-------------------------:|:-------------------------:
